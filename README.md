@@ -2,17 +2,17 @@
 Ganymede App, that is connected with Themisto
 
 Run this command shell/bash:
-&nbsp;
+<br/>
 npm run start:dev
-&nbsp;
+<br/>
  /   (returns hello)
-	&nbsp;
+	<br/>
  /newOrder
-	&nbsp;
+	<br/>
  /getOrders
-	&nbsp;
+	<br/>
  /getProductsByCategory
-	&nbsp;
+<br/>
 
 
 Default port 3000
