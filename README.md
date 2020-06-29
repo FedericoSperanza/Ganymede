@@ -5,6 +5,8 @@ Run this command shell/bash:
 <br/>
 npm run start:dev
 <br/>
+
+EndPoints <br/>
  /   (returns hello)
 	<br/>
  /newOrder
