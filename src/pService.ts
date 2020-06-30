@@ -13,7 +13,7 @@ module.exports = {
           })
     }
     if (process.env.inHeroku){
-    console.log("* Using Heroku  *")
+    console.log("* Using Heroku   *")
     const res = await Fetch("https://themisto-api-fsperanza.herokuapp.com/scrapSearch",data)
     let body = await res.json()
     return body
