@@ -9,14 +9,29 @@ npm run start:dev
 Default port 3000 on LocalHost <br/>
 EndPoints <br/>
 https://ganymede-api-fsperanza.herokuapp.com/
-EndPoints <br/>
+# EndPoints <br/>
  /   (returns hello)
 	<br/>
  /newOrder
+ <br/>
+ requires this json:
+ <br/>
+ {
+    "searchString": "CellPhone"
+
+}
 	<br/>
  /getOrders
 	<br/>
  /getProductsByCategory
+ <br/>
+ Requires this json:
+ <br/>
+ example
+ {
+   "category":"Productos de Oficina"
+
+}
 <br/>
 
 
