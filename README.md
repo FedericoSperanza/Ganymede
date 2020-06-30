@@ -10,7 +10,7 @@ Default port 3000 on LocalHost <br/>
 EndPoints <br/>
 https://ganymede-api-fsperanza.herokuapp.com/
 # EndPoints <br/>
- /   (returns hello)
+ <b> / </b>   (returns hello)
 	<br/>
  /newOrder
  <br/>
