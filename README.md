@@ -12,7 +12,7 @@ https://ganymede-api-fsperanza.herokuapp.com/
 # EndPoints <br/>
  <b> / </b>   (returns hello)
 	<br/>
- /newOrder
+ <b>/newOrder </b>
  <br/>
  requires this json:
  <br/>
@@ -22,10 +22,10 @@ https://ganymede-api-fsperanza.herokuapp.com/
 }
 	<br/>
 	<br/>
- /getOrders
+ <b>/getOrders </b>
  <br/>
 	<br/>
- /getProductsByCategory
+ <b> /getProductsByCategory </b>
  <br/>
  Requires this json:
  <br/>
