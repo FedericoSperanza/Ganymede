@@ -21,7 +21,9 @@ https://ganymede-api-fsperanza.herokuapp.com/
 
 }
 	<br/>
+	<br/>
  /getOrders
+ <br/>
 	<br/>
  /getProductsByCategory
  <br/>
