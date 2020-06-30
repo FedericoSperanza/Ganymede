@@ -6,6 +6,9 @@ Run this command shell/bash:
 npm run start:dev
 <br/>
 
+Default port 3000 on LocalHost <br/>
+EndPoints <br/>
+https://ganymede-api-fsperanza.herokuapp.com/
 EndPoints <br/>
  /   (returns hello)
 	<br/>
@@ -17,7 +20,5 @@ EndPoints <br/>
 <br/>
 
 
-Default port 3000
-EndPoints
 
 
